@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on 
 
-- Link to wesite: 
+- Link to wesite: https://github.com/rehposolihpedoc/HW5-Work-Day-Scheduler/tree/main
 
-- 🌱 I’m currently learning **html, CSS, JSON, & JS**
+- 🌱 I’m currently learning **html, CSS, JSON, Jquery & JS**
 
 - 👨‍💻 All of my projects are available at https://github.com/rehposolihpedoc
 
@@ -34,11 +34,11 @@ THEN the saved events persist
 ## Why I did this:
 I wanted to push my boundries for working in API's.
 ## Problem solved: 
-I was able to create a functional quiz with Javaacript logic.
+I was able to create a calendar using Jquery commands and methods.
 ## Learning journey:
 I learned how to:
- -Generate text from JS through the DOM
- -Use event listeners to get the desired results.
+ -Use Jquery.
+ -Use day.js.
 
 
 ## Installation
